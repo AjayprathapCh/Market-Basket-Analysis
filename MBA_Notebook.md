@@ -1,11 +1,7 @@
----
-title: "Market Basket Analysis"
-output:
-  html_document:
-    keep_md: yes
----
+# Market Basket Analysis
 
-Let's install required packeges for Market Basket Analysis
+
+Let's install required packeges
 
 
 ```r
